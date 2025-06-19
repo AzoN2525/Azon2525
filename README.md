@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá! 👋
 
 Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em Viseu 📍  
 
@@ -21,4 +21,4 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzoN2525&layout=compact&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=AzoN2525&color=blue)
-
+##
