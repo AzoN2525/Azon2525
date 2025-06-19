@@ -6,13 +6,16 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 - Python, Java
 - Linux, Git, Docker
 
-## 📫 Contactos
-- Email institucional: diogo.l.oliveira@ua.pt
-- Email pessoal: diogoliveira1510@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/diogo-oliveira](https://www.linkedin.com/in/diogo-oliveira-0b834226a)
+
+## 📲 Redes sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-oliveira-0b834226a)
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/azon.25)
+[![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](diogo.l.oliveira@ua.pt)
+[![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](diogoliveira1510@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/teu_id)
 
 
-
+##
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzoN2525&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzoN2525&layout=compact&theme=radical)
