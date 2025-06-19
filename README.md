@@ -9,7 +9,7 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 ## 📫 Contactos
 - Email institucional: diogo.l.oliveira@ua.pt
 - Email pessoal: diogoliveira1510@gmail.com
-- LinkedIn: [meu-link](https://www.linkedin.com/in/diogo-oliveira-0b834226a/)
+- LinkedIn: https://www.linkedin.com/in/diogo-oliveira-0b834226a
 
 
 
