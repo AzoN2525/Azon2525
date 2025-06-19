@@ -12,7 +12,7 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/azon.25)
 [![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](diogo.l.oliveira@ua.pt)
 [![Email](https://img.shields.io/badge/Email-darkgreen?logo=gmail&logoColor=white)](diogoliveira1510@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/teu_id)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/azon7230)
 
 
 ##
