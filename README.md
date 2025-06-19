@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá! 👋
 
 Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em Viseu 📍  
 
