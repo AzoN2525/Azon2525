@@ -6,7 +6,7 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 - Python, Java
 - Linux, Git, Docker
 
-https://microio-inovacao.pt/wp-content/uploads/2025/03/deti_vertical_cores_Prancheta-1.png
+![Badge UA]https://microio-inovacao.pt/wp-content/uploads/2025/03/deti_vertical_cores_Prancheta-1.png
 
 
 ## 📲 Redes sociais
