@@ -2,9 +2,6 @@
 
 Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em Viseu. 📍  
 
-## 🔧 Tecnologias favoritas:
-- Python, Java
-- Linux, Git, Docker
 
 ## 🎓 Universidade
 ![Badge UA](https://microio-inovacao.pt/wp-content/uploads/2025/03/deti_vertical_cores_Prancheta-1.png)
