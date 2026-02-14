@@ -15,9 +15,5 @@ Sou estudante de Engenharia Informática na Universidade de Aveiro, mas vivo em 
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzoN2525&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzoN2525&layout=compact&theme=radical)
-
 ![Profile views](https://komarev.com/ghpvc/?username=AzoN2525&color=blue)
 ##
