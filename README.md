@@ -2,9 +2,7 @@
 
 Developer full-stack em Viseu, Portugal. Quase toda a gente me trata por **azon**.
 
-Licenciei-me em Engenharia Informática na Universidade de Aveiro e estou a estagiar na **CloudSymbiosis**, uma empresa de IT consulting. Gosto de construir sistemas prontos para produção, das APIs e do processamento assíncrono até à interface, com um fraquinho pela parte que se vê.
-
-🌐 **Portfolio:** [azon.dev](https://azon.dev)
+Licenciei-me em Engenharia Informática na Universidade de Aveiro e estou a estagiar na **CloudSymbiosis**, uma empresa de IT consulting.
 
 ## 🚀 Projetos
 
