@@ -8,10 +8,8 @@ Licenciei-me em Engenharia Informática na Universidade de Aveiro e estou a esta
 
 - **[QuickDesk](https://quickdesk.online)**: plataforma de gestão de tickets de suporte de TI, desenvolvida no Projeto de Informática da licenciatura. APIs REST em FastAPI com controlo de acessos por perfis (RBAC), SQL e NoSQL, processamento assíncrono com RabbitMQ, tudo em Docker. · [Microsite](https://quickdesk-it-support-platform.github.io/microsite_repo.github.io/)
 - **[Website da CloudSymbiosis](https://cloudsymwebsite.pages.dev/en/)**: site da empresa, em Astro e Tailwind, com deploy contínuo no Cloudflare Pages.
-- **[AtmoSphere](https://github.com/AzoN2525/atmoSphere)**: aplicação meteorológica full-stack.
-- **[azon.dev](https://azon.dev)**: o meu portfolio, em Astro, PT e EN, com um avatar 3D que segue o cursor e um footer em pixel art. · [Código](https://github.com/AzoN2525/azonWebsite)
-
-## 🛠️ Stack
+- **[AtmoSphere](https://github.com/AzoN2525/atmoSphere)**: aplicação meteorológica full-stack desenvolvida no âmbito da cadeira de IES.
+- **[azon.dev](https://azon.dev)**: o meu portfolio.
 
 **Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
